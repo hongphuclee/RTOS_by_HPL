@@ -1,0 +1,10 @@
+queue.pbi: D:\My_Embedded\Micontroller\hplRTOS_STM32F1\src\queue.c \
+  D:\My_Embedded\Micontroller\hplRTOS_STM32F1\include\queue.h \
+  D:\My_Embedded\Micontroller\hplRTOS_STM32F1\config\rtos_config.h \
+  D:\My_Embedded\Micontroller\hplRTOS_STM32F1\include/hplRTOS.h \
+  D:\My_Embedded\Micontroller\hplRTOS_STM32F1\include/task.h \
+  D:\D\App\IAR\arm\inc\c\string.h D:\D\App\IAR\arm\inc\c\ycheck.h \
+  D:\D\App\IAR\arm\inc\c\yvals.h D:\D\App\IAR\arm\inc\c\DLib_Defaults.h \
+  D:\\D\\App\\IAR\\arm\\inc\\c\\DLib_Config_Normal.h \
+  D:\D\App\IAR\arm\inc\c\DLib_Product.h D:\D\App\IAR\arm\inc\c\ysizet.h \
+  D:\D\App\IAR\arm\inc\c\DLib_Product_string.h

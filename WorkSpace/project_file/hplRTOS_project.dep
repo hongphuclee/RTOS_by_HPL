@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <fileVersion>4</fileVersion>
+    <fileChecksum>1569298213</fileChecksum>
+    <configuration>
+        <name>Debug</name>
+        <outputs>
+            <file>$PROJ_DIR$\Debug\Obj\hplRTOS.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\hplRTOS.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\hplRTOS_project.pbd</file>
+            <file>$PROJ_DIR$\..\..\include\gpio.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\gpio.xcl</file>
+            <file>$PROJ_DIR$\Debug\Obj\semaphore_test.o</file>
+            <file>$PROJ_DIR$\..\..\..\Stm32f10x\include\uart.h</file>
+            <file>$PROJ_DIR$\..\..\..\Stm32f10x\include\timer1.h</file>
+            <file>$TOOLKIT_DIR$\lib\shb_l.a</file>
+            <file>$PROJ_DIR$\Debug\Obj\basic_blink.__cstat.et</file>
+            <file>$PROJ_DIR$\..\..\example\basic_blink.c</file>
+            <file>$PROJ_DIR$\..\..\include\semaphore.h</file>
+            <file>$PROJ_DIR$\Debug\List\hplRTOS_project.map</file>
+            <file>$PROJ_DIR$\Debug\Obj\semaphore.xcl</file>
+            <file>$PROJ_DIR$\..\..\include\bit.h</file>
+            <file>$PROJ_DIR$\..\..\example\semaphore_test.c</file>
+            <file>$PROJ_DIR$\..\..\include\my_rcc.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\priority_test.xcl</file>
+            <file>$PROJ_DIR$\Debug\Obj\priority_test.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\basic_blink.xcl</file>
+            <file>$PROJ_DIR$\Debug\Obj\semaphore.o</file>
+            <file>$PROJ_DIR$\..\..\include\hplRTOS.h</file>
+            <file>$PROJ_DIR$\..\..\..\Stm32f10x\include\my_dma.h</file>
+            <file>$PROJ_DIR$\..\..\include\systick.h</file>
+            <file>$PROJ_DIR$\Debug\Exe\hplRTOS_project.out</file>
+            <file>$PROJ_DIR$\Debug\Obj\hplRTOS.xcl</file>
+            <file>$PROJ_DIR$\..\..\config\rtos_config.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\basic_blink.o</file>
+            <file>$TOOLKIT_DIR$\lib\m7M_tl.a</file>
+            <file>$TOOLKIT_DIR$\lib\rt7M_tl.a</file>
+            <file>$PROJ_DIR$\..\..\..\Stm32f10x\include\lcd_i2c.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\gpio.o</file>
+            <file>$PROJ_DIR$\..\..\example\valriable._test.c</file>
+            <file>$PROJ_DIR$\..\..\..\Stm32f10x\source\systick.c</file>
+            <file>$PROJ_DIR$\..\..\example\priority_test.c</file>
+            <file>$PROJ_DIR$\..\..\src\switch.s</file>
+            <file>$PROJ_DIR$\Debug\Obj\systick.xcl</file>
+            <file>$PROJ_DIR$\..\..\..\Stm32f10x\source\gpio.c</file>
+            <file>$PROJ_DIR$\..\..\src\semaphore.c</file>
+            <file>$PROJ_DIR$\..\..\src\startup_stm32f103cx.s</file>
+            <file>$TOOLKIT_DIR$\config\linker\ST\stm32f103x8.icf</file>
+            <file>$PROJ_DIR$\..\..\include\task.h</file>
+            <file>$PROJ_DIR$\..\..\..\Stm32f10x\include\adc.h</file>
+            <file>$PROJ_DIR$\..\..\..\Stm32f10x\include\nvic.h</file>
+            <file>$PROJ_DIR$\..\..\src\hplRTOS.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\systick.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\valriable._test.o</file>
+            <file>$TOOLKIT_DIR$\lib\dl7M_tln.a</file>
+            <file>$PROJ_DIR$\Debug\Obj\startup_stm32f103cx.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\valriable._test.xcl</file>
+            <file>$PROJ_DIR$\Debug\Obj\semaphore_test.xcl</file>
+            <file>$PROJ_DIR$\Debug\Obj\switch.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\gpio.__cstat.et</file>
+            <file>$PROJ_DIR$\..\..\..\Stm32f10x\include\button.h</file>
+            <file>$PROJ_DIR$\..\..\..\Stm32f10x\include\LHP_stm32f103.h</file>
+            <file>$PROJ_DIR$\..\..\..\Stm32f10x\include\i2c.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\systick.__cstat.et</file>
+            <file>$PROJ_DIR$\..\..\include\queue.h</file>
+            <file>C:\Users\ADMIN\AppData\Local\IAR Embedded Workbench\CodeTemplates.ENU.txt</file>
+            <file>$PROJ_DIR$\..\..\include\mutex.h</file>
+            <file>$PROJ_DIR$\..\..\src\mutex.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\mutex.xcl</file>
+            <file>$PROJ_DIR$\Debug\Obj\mutex.o</file>
+            <file>$PROJ_DIR$\..\..\example\mutex_test.c</file>
+            <file>$TOOLKIT_DIR$\inc\c\string.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product_string.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\mutex_test.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\mutex_test.xcl</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Normal.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\queue.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\queue.xcl</file>
+            <file>$PROJ_DIR$\..\..\src\queue.c</file>
+        </outputs>
+        <file>
+            <name>[ROOT_NODE]</name>
+            <outputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 24 12</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\example\basic_blink.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 27</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 19</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 9</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 54 3 16 53 14 22 43 23 7 6 55 30 42 21 26 41</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\example\semaphore_test.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 5</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 50</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 54 3 16 53 14 22 43 23 7 6 55 30 42 21 26 41 11</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Debug\Exe\hplRTOS_project.out</name>
+            <outputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 12</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 40 31 0 62 71 20 48 51 45 8 29 28 47</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\example\valriable._test.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 46</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 49</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 54 3 16 53 14 22 43 23 7 6 55 30 42 21 26 41 11</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\Stm32f10x\source\systick.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 45</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 36</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 56</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 23 14 16</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\example\priority_test.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 18</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 17</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 54 3 16 53 14 22 43 23 7 6 55 30 42 21 26 41</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\src\switch.s</name>
+            <outputs>
+                <tool>
+                    <name>AARM</name>
+                    <file> 51</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\Stm32f10x\source\gpio.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 31</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 4</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 52</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 3 16</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\src\semaphore.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 20</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 13</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 11 26 21 41</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\src\startup_stm32f103cx.s</name>
+            <outputs>
+                <tool>
+                    <name>AARM</name>
+                    <file> 48</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\src\hplRTOS.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 0</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 25</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 1</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 21 26 41</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\src\mutex.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 62</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 61</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 59 26 21 41</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\example\mutex_test.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 71</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 72</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 21 26 41 59 54 3 16 53 14 22 43 23 7 6 55 30 42</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\src\queue.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 74</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 75</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 57 26 21 41 64 67 69 65 73 68 70 66</file>
+                </tool>
+            </inputs>
+        </file>
+        <forcedrebuild>
+            <name>[MULTI_TOOL]</name>
+            <tool>ILINK</tool>
+        </forcedrebuild>
+    </configuration>
+    <configuration>
+        <name>Release</name>
+        <outputs />
+        <forcedrebuild>
+            <name>[MULTI_TOOL]</name>
+            <tool>ILINK</tool>
+        </forcedrebuild>
+    </configuration>
+</project>

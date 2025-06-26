@@ -1,0 +1,4 @@
+hplRTOS.pbi: D:\My_Embedded\Micontroller\hplRTOS_STM32F1\src\hplRTOS.c \
+  D:\My_Embedded\Micontroller\hplRTOS_STM32F1\include\hplRTOS.h \
+  D:\My_Embedded\Micontroller\hplRTOS_STM32F1\config\rtos_config.h \
+  D:\My_Embedded\Micontroller\hplRTOS_STM32F1\include/task.h
